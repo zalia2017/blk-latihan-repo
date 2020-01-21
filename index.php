@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1> Ini adalah halaman index</h1>
+    <hr>
+    <a>Test</a>
 </body>
 </html>
