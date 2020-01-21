@@ -7,6 +7,6 @@
     <title>.: Latihan GIT :.</title>
 </head>
 <body>
-    
+    <h1> Ini adalah halaman index</h1>
 </body>
 </html>
