@@ -10,5 +10,6 @@
     <h1> Ini adalah halaman index</h1>
     <hr>
     <a>Test</a>
+    <a>Test 2</a>
 </body>
 </html>
